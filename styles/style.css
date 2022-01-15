@@ -15,7 +15,7 @@ line-height: 36px;
 /* navigation-code */
 .containerr
 {
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 0 30px;
 }
@@ -450,7 +450,7 @@ footer div
 
 
 
-@media screen and (max-width:900px){
+@media screen and (max-width:688px){
 
     .container
     {

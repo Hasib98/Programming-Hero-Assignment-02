@@ -27,7 +27,8 @@ header
     left: 0px;
     top: 0px;
     
-    background: rgba(255, 166, 0, 0.705)
+    /*background: rgba(255, 166, 0, 0.705)*/
+    background: black;
 }
 
 

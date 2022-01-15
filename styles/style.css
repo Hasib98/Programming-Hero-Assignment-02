@@ -53,7 +53,7 @@ nav{
 {
     display: flex;
     font-size: 20px;
-line-height: 24px;
+    line-height: 24px;
 }
 
 .navigation li
@@ -449,7 +449,7 @@ footer div
 
 
 
-@media screen and (max-width:688px){
+@media screen and (max-width:900px){
 
     .container
     {
